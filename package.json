@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nsk0826/node-practise/issues"
   },
-  "homepage": "https://github.com/nsk0826/node-practise#readme"
+  "homepage": "https://github.com/nsk0826/node-practise#readme",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
 }
