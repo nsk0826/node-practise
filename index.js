@@ -4,4 +4,4 @@ const youCity = cities.zip_lookup("10017");
 
 console.log(myCity);
 
-console.log("youCity:" + youCity);
+console.log("youCity:" + JSON.stringify(youCity));
